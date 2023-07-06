@@ -1,0 +1,42 @@
+{
+    "eateries":[
+        {
+            "id ": 1,
+            "name":"smart pind",
+            "Address" : "Scholars Ave Road,near CCD",
+            "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fsmartpind.business.site%2F&psig=AOvVaw1zTOcjjaEExP7GshlTDf6s&ust=1687890057571000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOiwmc3G4f8CFQAAAAAdAAAAABAE"
+            },
+        {
+         "id":2,
+         "name":"Tikka",
+         "Address":"Aeroshir Dalal Avenue",
+         "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Ffoursquare.com%2Fv%2Fthe-new-tikka%2F4de9b73022713dd973810e64&psig=AOvVaw0UQZnyZ5BPGvxghDUUSiNF&ust=1687890099575000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCLDO8uHG4f8CFQAAAAAdAAAAABAE"
+
+        },
+        {
+          "id":3,
+          "name":"Banana leaf",
+          "Address":"New Bitumen Road",
+          "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zomato.com%2Fkharagpur%2Fbilloos-resturant-iit-kharagpur%2Forder&psig=AOvVaw1Fkk0eNNK_FYkkXLfNzuEM&ust=1687890126659000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCKCg7e3G4f8CFQAAAAAdAAAAABAE"
+        },
+        {
+       "id":4,
+       "name":"Vegies",
+       "Address":"Scholars Ave Road,near CCD",
+       "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.zomato.com%2Fkharagpur%2Fvegies-iit-kharagpur%2Forder&psig=AOvVaw1_1J61CLiWbolV6exT3uwX&ust=1687890201433000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCND6rpLH4f8CFQAAAAAdAAAAABAJ"
+        },
+{
+    "id":5,
+    "name":"heritage",
+    "Address":"Scholars Ave Road",
+    "img":"https://www.google.com/url?sa=i&url=https%3A%2F%2Finternational.iitkgp.ac.in%2Fcampus-life%2F&psig=AOvVaw2ps7DWo019tBzU7IdUWXcT&ust=1687889909610000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIiA5YXG4f8CFQAAAAAdAAAAABAE"
+},
+{
+    "id":6,
+    "name":"Food City",
+    "Address":"near RK hall of residence",
+    "img ":"https://www.google.com/url?sa=i&url=https%3A%2F%2Frestaurant-guru.in%2FFood-City-Kharagpur-3&psig=AOvVaw2jdyec8LWUKS5WyZpYPMbm&ust=1687890265871000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCOC8kazQ4f8CFQAAAAAdAAAAABAE"
+}
+
+    ]
+}
